@@ -2,6 +2,8 @@ import { useContext } from "react";
 import "./Main.css";
 import { assets } from "../../assets/assets";
 import { Context } from "../../context/Context";
+import { AiFillRedditCircle } from "react-icons/ai";
+import { IoPersonOutline } from "react-icons/io5";
 
 const Main = () => {
     const {onSent, recentPrompt, showResult, loading, resultData, setInput, input} = useContext(Context);
@@ -10,7 +12,7 @@ const Main = () => {
     <div className="main">
       <div className="nav">
         <p>Gemini Clone</p>
-        <img src={assets.user_icon} alt="" />
+        <IoPersonOutline />
       </div>
       <div className="main-container">
         {!showResult?
@@ -21,32 +23,14 @@ const Main = () => {
           </p>
           <p>How can I assist?</p>
         </div>
-        <div className="cards">
-          <div className="card">
-            <p>Suggest beautiful places to dinner.</p>
-            <img src={assets.compass_icon} alt="" />
-          </div>
-          <div className="card">
-            <p>Briefly summarize this concept: urban planning.</p>
-            <img src={assets.bulb_icon} alt="" />
-          </div>
-          <div className="card">
-            <p>Brainstorm team bonding activities.</p>
-            <img src={assets.message_icon} alt="" />
-          </div>
-          <div className="card">
-            <p>Improve the readability of the following code.</p>
-            <img src={assets.code_icon} alt="" />
-          </div>
-        </div>
         </>
         :<div className="result">
             <div className="result-title">
-                <img src={assets.user_icon} alt=""/>
+              <IoPersonOutline size={45} color={"cyan"} enableBackground={true}/>
                 <p>{recentPrompt}</p>
             </div>
             <div className="result-data">
-                <img src={assets.gemini_icon} alt=""/>
+              <AiFillRedditCircle size={45} color={"cyan"}/>
                 {loading?
                 <div className="loader">
                     <hr />
@@ -61,9 +45,7 @@ const Main = () => {
           <div className="search-box">
             <input onChange={(e) => setInput(e.target.value)} value={input} type="text" placeholder="Enter a prompt here" />
             <div>
-              <img src={assets.gallery_icon} alt="" />
-              <img src={assets.mic_icon} alt="" />
-              <img onClick={() => onSent()}src={assets.send_icon} alt="" />
+              {input?<img onClick={() => onSent()}src={assets.send_icon} alt="" />:null}
             </div>
           </div>
           <div className="bottom-info">

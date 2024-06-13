@@ -7,7 +7,11 @@ import { Context } from "../../context/Context";
 
 const Sidebar = () => {
   const [extended, setExtended] = useState(false);
-  const { onSent, prevPrompts, setRecentPrompt } = useContext(Context);
+  const { onSent, prevPrompts, setRecentPrompt, newChat } = useContext(Context);
+  const loadPrompt = async (prompt) => {
+    setRecentPrompt(prompt)
+    await onSent(prompt)
+  }
 
   const [location, setLocation] = useState(null); // State to store user location
 
@@ -36,7 +40,7 @@ const Sidebar = () => {
 
   return (
     <div className="sidebar">
-      <div className="top">
+      <div onClick={()=>newChat}className="top">
         <FiAlignJustify
           size={30}
           onClick={() => setExtended(!extended)}
@@ -52,9 +56,9 @@ const Sidebar = () => {
             <p className="recent-title">Recent</p>
             {prevPrompts.map((item, index) => {
               return (
-                <div className="recent-entry">
+                <div onClick={()=>loadPrompt(item)}className="recent-entry">
                   <BsChatFill />
-                  <p>{item} ...</p>
+                  <p>{item.slice(0,18)} ...</p>
                 </div>
               );
             })}
@@ -78,7 +82,6 @@ const Sidebar = () => {
         </div>
         {location && (
           <div className="location-info">
-            <p>{location.latitude}</p>
           </div>
         )}
       </div>

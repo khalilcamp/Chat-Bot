@@ -11,7 +11,7 @@
     justify-content: space-between;
     font-size: 22px;
     padding: 20px;
-    color: #585858;
+    color: #83B4FF;
 }
 
 .main .nav img{
@@ -27,13 +27,13 @@
 .main .greet{
     margin: 50px 0;
     font-size: 56px;
-    color: #c4c7c5;
+    color: #83B4FF;
     font-weight: 500;
     padding: 20px;
 }
 
 .main .greet span{
-    background: -webkit-linear-gradient(16deg,#4b90ff, #ff5546);
+    background: -webkit-linear-gradient(16deg,#83B4FF, #5A72A0);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -65,7 +65,7 @@
 }
 
 .main .card p{
-    color: #585858;
+    color: #FDFFE2;
     font-size: 17px;
 }
 
@@ -135,6 +135,7 @@
     display: flex;
     align-items: center;
     gap: 20px;
+    color: #FDFFE2;
 }
 
 .result img{
@@ -178,4 +179,21 @@
     font-size: 17px;
     font-weight: 300;
     line-height: 1.8;
+    color: #FDFFE2;
+}
+
+@media (max-width: 600px){
+    .main-bottom input{
+        flex: none;
+        width: 150px;
+    }
+    .main-bottom img{
+        width: 20px;
+    }
+    .search-box{
+        padding: 5px 10px;
+    }
+    .search-box div{
+        gap: 5px;
+    }
 }
