@@ -4,6 +4,8 @@ import { assets } from "../../assets/assets";
 import { BsChatDots, BsChatFill } from "react-icons/bs";
 import { FiAlignJustify } from "react-icons/fi";
 import { Context } from "../../context/Context";
+import { FaGithub } from "react-icons/fa";
+
 
 const Sidebar = () => {
   const [extended, setExtended] = useState(false);
@@ -67,18 +69,7 @@ const Sidebar = () => {
       </div>
       <div className="bottom">
         <div className="bottom-item recent-entry">
-                    <img src={assets.question_icon} alt="" />         {" "}
-          {extended ? <p> Help </p> : null}       {" "}
-        </div>
-               {" "}
-        <div className="bottom-item recent-entry">
-                    <img src={assets.history_icon} alt="" />         {" "}
-          {extended ? <p> Activity </p> : null}       {" "}
-        </div>
-               {" "}
-        <div className="bottom-item recent-entry">
-                    <img src={assets.setting_icon} alt="" />         {" "}
-          {extended ? <p> Settings </p> : null}       {" "}
+        <a href="https://github.com/khalilcamp"><FaGithub size={30}/>{extended ? <p class="recent-entry"> Khalilcamp </p> : null}</a>
         </div>
         {location && (
           <div className="location-info">

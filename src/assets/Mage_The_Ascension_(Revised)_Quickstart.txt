@@ -1,0 +1,2017 @@
+Free Introductory Kit
+
+Reality is the Lie
+Reality is a conspiracy. A conspiracy that controls the world. And everyone you have ever known is
+part of it.
+They told us that the earth is round.
+And we believed.
+They told us that matter is formed of atoms.
+And we believed.
+They told us that DNA shapes all living things.
+And we believed.
+Once the conspiracy was small. But with each belief, it grew. The technocratic masters of this
+conspiracy worked in secret throughout the ages with only one goal — to construct a reality of their
+own choosing, fueled by the belief of desperate billions. A world marching in perfect mechanical
+and maddening order. A world with no room for human imperfection or indecision. A World of
+Darkness.
+
+The Truth is Magic
+You know better.
+Space is an illusion — you can be anywhere you choose or everywhere at once.
+The boundaries of time don’t apply, for you can see the past and the future. Matter and energy are
+etchings on the primal essence, to be made and erased at will.
+You know the truth. And the truth is Magic.
+But the truth is dying. For centuries, the Technocracy has waged war against those who reject their
+version of reality. They extinguish hope and wonder in favor of order and reason. They have indoctrinated or destroyed countless mages. And you are next.
+
+Join the Last Stand in the War for Reality.
+
+Mage:
+The Ascension
+Introductory
+Kit
+Table of Contents
+Introduction — What is Mage: The Ascension?			
+Setting — Mage History and Metaphysics				
+
+4
+		
+
+Character Creation— The Makings of a Mage						
+
+5
+10
+
+Traditions — The Council of Nine							
+
+11
+
+Traits and Spheres — The Power of the Mage					
+
+14
+
+Health and Quintessence — Behind the Power					
+
+18
+
+Rules — Playing the Game									
+
+19
+
+Combat — Physical and Metaphysical Confrontation				
+
+21
+
+Story Ideas — Suggested Starting Points							
+
+23
+
+Because of the mature themes involved, reader discretion is advised.
+Based on the Mage: The Ascension game created by Phil Brucato and Stewart Wieck, with Kathy Ryan, Steve Wieck, Chris Early,
+Bill Bridges, Andrew Greenberg, Mark Rein•Hagen and Travis Williams. Revised Edition development by Jesse Heinig.
+Check out White Wolf online at www.white-wolf.com.
+© 2008 CCP hf. All rights reserved. Reproduction without the written permission of the publisher is expressly forbidden, except for the purposes
+of reviews, and for blank character sheets, which may be reproduced for personal use only. White Wolf and Mage: The Ascension are registered
+trademarks of CCP hf. All rights reserved. All characters, names, places and text herein are copyrighted by CCP hf. CCP North America Inc.
+is a wholly owned subsidiary of CCP hf.
+This book uses the supernatural for settings, characters and themes. All mystical and supernatural elements are fiction and intended for entertainment purposes only. This book contains mature content. Reader discretion is advised.
+
+MAGE INTRODUCTORY KIT
+
+3
+
+The booklet of rules you now hold is a window into a world or wonder and magic, the world of Mage: The Ascension,
+a storytelling game from White Wolf Publishing. Using the rules in the pamphlet, you are able to temporarily take the part
+of mages, men and women with the ability to change the very nature of reality, and participate in their struggle to control the
+destiny of humankind.
+
+Storytelling
+A Storytelling game is like a campfire tale —
+several friends all get together to participate in
+building a story. Unlike the usual story, though, a
+Storytelling game is interactive: Everybody takes
+part in the story to shape it and its outcome. Each
+player guides the role of a protagonist while the
+Storyteller directs and shapes the overall outcome
+of the tale. No story has a set ending: Each story can go in a
+different direction, elaborating the triumphs and tragedies of
+different characters.
+A Storytelling game lets the players all shape the tale with
+their imaginations. Have you ever wondered what would’ve
+happened if a character had done something differently in a
+favorite book or novel? Ever wanted to know what would happen
+if you placed a hero from one story into a different world? In
+a Storytelling game, you get to do just that — you can describe
+all the choices for one of the characters while the Storyteller
+explains how the tale unfolds as a result. You can guide a
+character to specific goals or explore a character’s feelings. It’s
+a fun game of make-believe, except that every player follows
+the same guides and rules to make the story come together in
+a sensible fashion and to allow everyone to participate. Like
+more conventional storytelling, you decide whether your stories
+will be compelling, horrifying, moral or just fun.
+
+Players and Storytellers
+A Storytelling game has several players and one Storyteller.
+The Storyteller sets the scene, elaborates on the tale and immerses the players in the world surrounding their characters.
+Each player, by contrast, has one starring role: a character,
+much like a novel’s hero (or villain!), that she guides through
+the circumstances of the story. The protagonist in a novel rarely
+knows what troubles he’ll face or what motivates his enemies,
+and the same is true in a Storytelling game: Each player is
+aware of her own character’s strengths and motivations, but
+the antagonists, the setting and the plot all lie wrapped in
+mystery, revealed only when the Storyteller chooses. Because
+the Storyteller is the authority for this interactive tale, every
+player can describe what his character does and how, but it’s
+the Storyteller who decides what happens in the surrounding
+world. The Storyteller takes on the roles of all the other people
+that may appear in the tale, from hags to businesswomen to
+engineers to street punks.
+Example: Bruce, Bryan, Geoff and Rebecca settle in for
+a game of Mage. Bruce acts as Storyteller and thus sets the
+
+4
+
+MAGE INTRODUCTORY KIT
+
+stage, describes the world around the characters and takes
+on the roles of various people or entities with whom they’ll
+interact. Bryan decides to play WhiteOut, a pretentious Virtual
+Adept hacker; Geoff takes on the role of Bronwyn, a sarcastic
+Verbena botanist; and Rebecca tells of Lucinde, an erratic
+Order of Hermes professor. Bruce lays out the opening of
+the story with the players’ characters all brought to speak to
+an aged magical Adept who wants their help in discovering
+a lost treasure. Rebecca, as Lucinde, asks what’s in it for her
+Order. Bryan decides that WhiteOut uses his computer skills
+to research the mystic artifact. As Bronwyn, Geoff decries the
+search, stating that legends tell that this magic item is malevolent and uncontrollable. Once they’ve said their pieces, Bruce
+decides on what happens: He tells whether WhiteOut finds
+any information in the computer and how the patron reacts to
+the outbursts and questions of the other characters.
+
+What is
+a Mage?
+There are just as many possible protagonists
+as there are stories, but Mage games center
+around special types of people. Shakespeare’s
+play King Lear talks about the trials of a ruler.
+J.R.R. Tolkien’s novel The Hobbit focuses upon
+the travels of one lone hobbit in a very large world. In Mage, the
+players assume the roles of mages — wise men, magicians and
+visionaries, people who can change the world — and experience
+the heights of enlightenment or the depths of despair.
+While many stories depict mages as decrepit old men in
+pointy hats, the wizards of the modern age come in varied
+forms. A mage is the holder of special knowledge. Through that
+knowledge, through enlightened insight into the workings of the
+universe itself, a mage reshapes the world. This can take many
+forms: Some mages use ancient sorcerous invocations or rely
+on blood-pacts with spirits while a few use super-technological
+tools or finely honed physical training. The mage is a person
+whose belief is so profound that she can unearth and control
+the very energies of creation.
+Of course, a mage could be the old woman reading Tarot
+cards down the street, the incredible computer cracker with
+a talent for breaking codes or the man behind the counter
+at the occult bookstore. Mages can be much, much more,
+though. Contrary to old stories, mages aren’t necessarily
+inhuman or servants of dark powers. However, there are so
+many kinds of magic that nearly every story is true about one
+mage or another. A great many half-truths and falsehoods
+
+surround the myths of mages. Some are based in history
+and were once true (but no longer are) while others were
+simply folk tales.
+• Mages must use formulae to cast their spells. False.
+Though mages can and do pass down certain rituals to perform
+magic, they can devise their spells from their own experiences.
+Mages can even, with the right knowledge, create spells on the
+spot for specific needs.
+• Mages are not human, but instead pass on magic
+in their own families. False. Mages are just as human as
+anyone else; they Awaken to the power of magic regardless
+of genetic heritage.
+• Mages consort with demons and infernal powers to
+gain their magic. False… usually. A mage’s power stems from
+within, from belief, will and enlightenment. However, a belief
+in the power of the infernal could lead a mage to work magic
+through the auspices of demons and evil spirits.
+• Mages cannot be hurt by mortal weapons. False. Just as
+mages are human, they can be hurt and killed like other humans.
+However, they can use their magic to defend themselves.
+• Anything a mage does comes back upon her. True,
+though not as people often think. While a mage’s spells do
+not come back directly to affect the mage “threefold,” “seven
+times” or the like, a mage’s spells almost always have some sort
+of side effect. Mages call subtle side effects from a magician’s
+emotional intent or desire Resonance. Blatant side effects
+resulting from powerful magic are called Paradox.
+• A mage can hurl lightning and fire, cause earthquakes
+and fly through the air. True. With the right knowledge, a
+mage can command the elements, transform herself or others
+or create unnatural phenomena. However, doing so is very
+difficult and dangerous in the modern age, and not all mages
+are skilled in all areas of magic.
+• Mages cannot perform magic in a church or against
+someone protected by the cross. False. Magic works regardless
+of the influence of religion. Indeed, some mages perform their
+miracles as expressions of their religion. However, a rare few individuals —who aren’t necessarily even mages — can draw upon the
+strength of their true and abiding faith to turn magic aside.
+• Pushing a nail into a mage’s footprint or shadow
+injures him; the presence of a mage makes horses sweat and
+curdles milk. False. These are nothing more than old wives’
+tales. Of course, if a mage believes this sort of thing enough,
+it may well become true for him.
+• Magic can’t be used with technology. False. Technology
+and science are just other forms of belief, so they also work
+with magic. In fact, many mages use incredible technology
+instead of “magic.”
+• Mages seek power and enlightenment. True. The quest
+for magic is ultimately a journey of internal exploration. Those
+who survive learn and grow more powerful. Eventually, mages
+hope to surpass the limits of this universe, passing on to a
+higher state through the process called Ascension.
+
+The Magical World
+Naturally, mages look to history or society for clues to
+the hidden secrets of the arcane. Hidden in the puzzle-box
+of human legacy are hints at the keys to the universe. Each
+legend has some seed in truth, and every story points to some
+lost secret, artifact or faith — or some horrid monstrosity or
+revelation best left buried. Among humans, mages walk unnoticed, for they are human themselves, set apart only by their
+awareness and acceptance of the buried mysteries that the rest
+of humanity shuns.
+The power of science has long since overtaken the world.
+People order their universe in explainable, logical, rational steps
+so that they can comfortably survive without difficult decisions
+or supernatural threats. Mages must work hard to find the few
+bits of magic that have slipped through the cracks and must be
+ever vigilant against those who would forever extinguish the
+might of mysticism. Some mages fight to overthrow the Technocracy that secretly feeds science and reason to humanity, but
+many more simply slide between the chinks to survive, learn
+and eventually find some resolution to the questions raised by
+their magical awareness.
+
+The Awakening
+Every mage began as a normal person. At
+some point, though, the mage Awakened. Some
+potent event, terrible emotion or mysterious
+circumstance opened the mage’s eyes to a magical world and to the mage’s ability to change
+or master it.
+Once Awakened, there’s no turning back.
+A mage can embrace or deny magic, but the enlightenment
+always remains. Ultimately the mage must decide upon a personal approach to magic: Whether to remake the world, seek
+personal truths, destroy enemies or shun the mystical. Many
+look to ancient tomes or handed-down cultural secrets for ways
+to harness magic while some decide to apply their newfound
+power to the tools of the modern world. In the end, they are
+all heralds of change, even those who deny it.
+
+History of Magicians
+For as long as humanity has dreamed, struggled and
+thought, there have been mages. The magicians of each age
+hide among the pages of history, their secrets waiting for their
+modern inheritors to rediscover them.
+
+The Age of Legends
+Long before recorded history, in days whose stories are
+passed down only in rumors of legends, the world existed as a
+unified whole of spirit and matter, imagination and flesh. In
+these earliest days, humanity spread across the globe, contending with the spirits, monsters and animals of the world. Mages
+in this era led humanity through their extraordinary vision.
+MAGE INTRODUCTORY KIT
+
+5
+
+These mortals strode the globe with their magical powers,
+made pacts with spirits and gods, called down mighty forces
+and shaped destiny. It is said that in these days limitless magic
+was possible, for the world itself was filled with wonder. The
+future held only possibility.
+
+The Sundering
+At some point long ago, the flawed universe suffered
+a terrible tragedy. The physical world separated from the
+spiritual. Where once concepts and whims could give rise to
+reality, barriers rose to divide mortal men from the ghosts
+of the dead and the spirits of nature. Magicians discovered
+that their feats worked only with great effort and found that
+only at certain places or times did magical wellsprings rise
+to give the energy needed to power great spells. Arguments
+raged between different mages about proper ways to perform
+their rites, duties to humanity and the value of mysticism
+versus reason.
+Over time, magic became rare. While many talented mages
+performed fabulous miracles, the working of magic increased in
+difficulty. Mages had to band together and share their knowledge to advance their skills while competing groups jealously
+fought over points of doctrine.
+
+Early History
+The first recorded human cultures tell of wizards or
+heroes who founded civilizations — or corrupted them. In
+ancient Babylon, Gilgamesh and Enkidu wrestled for immortality; in the Americas, indigenous peoples built tremendous
+lines, mounds and stone calendars to track the skies and
+appease the spirits; in Egypt, pyramids rose while pharaohs
+prepared for the afterlife; in China, wise men consulted with
+dragons and gods. These times gave rise to legends and wars
+that resonated through all later history.
+First among the heroes of the early age were mages. Seekers of knowledge and truth guided their cultures, rising as
+heroes and kings to prominence. In these long-ago years, mages
+worked with great armies or hid among secret societies. Magic
+subcultures flourished as they hoarded mystic knowledge and
+artifacts. Groups fought over moral issues and wondrous places
+or just to test their strength.
+In this time there arose Traditions of magic — formulae
+and means to propagate magical mastery. Skilled mages
+took others under their tutelage to expand their authority,
+and groups of like-minded wizards worked together against
+enemy factions.
+
+The Dark Ages
+Long after the ages of enlightenment in Greece, Rome,
+Egypt, China and other places, the world moved into a
+time of despair. Jealous rulers and churches mandated the
+ways of humanity while magicians squabbled in cloistered
+sanctuaries for the bits of precious knowledge not lost
+to barbarism.
+
+6
+
+MAGE INTRODUCTORY KIT
+
+The Dark Ages saw the rise of many powerful and widespread magical factions. Hand in hand with the church, faithful
+miracle workers spread messages of healing and salvation to
+the populace. Witches and pagans danced in their wooded
+sanctuaries, celebrating nature’s fertility. Isolated towers or
+walled libraries housed magicians who studied celestial formulae,
+alchemy and the magical sciences.
+
+The Sorcerers Crusade
+Though mages competed for mastery in the Dark Ages,
+the end snuck upon them with the Inquisition and the Renaissance. Fanatical witch-hunters put magicians to the sword, and
+the rise of universities and reason removed mysticism from
+the history books. People turned from magic and myth to the
+ordered world of scientific exploration.
+Across the world, the fires of inspiration ignited — paragons
+of reason fought off demons and beasts from beyond while
+
+magicians came together in hopes of preserving wonder and
+mysticism. Strange mages from distant lands banded together
+to share their knowledge. The Order of Reason set down its
+charge to make the world safe for normal humanity at the
+Convention of the White Tower while the Council of the Nine
+Mystic Traditions vowed to keep magic alive during their own
+Great Convocation.
+
+The Age of Reason
+In earlier ages selected groups of humans treasured and
+hoarded the few jealous magics that their secretive groups
+studied — wizards in their reclusive chantries conveying
+their gifts of insight to only a few, churchmen denouncing
+heretical unbelievers and witches and pagans concealing
+their ways from those who would hunt them. Every group
+fell by the wayside when the Order of Reason promulgated
+a magic of its own: rational thought, the benefits of which
+could be made available to anyone. Even unenlightened
+men could use the tools of reason. Learned philosophers
+shared their advances through a web that spanned the
+globe, promising a world shaped not by gods or goddesses,
+but by humanity.
+Great strides pushed science ahead. For the first time,
+humans dreamed not of bowing to some invisible universe but
+of puzzling out its ways and using its laws to their advantage.
+
+By the same token, philosophers categorized and classified
+the world, systematically removing the mystical or magical.
+Mages fought back, starting squabbles or even outright wars,
+but slowly, places of mystery gave way to world exploration
+and the fervor of civilization. The Order of Reason reshaped
+itself into the Technocracy, dedicated to the spread of science, reason and order across the world, recreating reality
+in their own image.
+
+Modern Magic
+How can magicians live within the modern world? Skyscrapers and universities hold no room for dusty tomes and
+mischievous spirits. Yet magicians and their ilk roam unseen in
+mundane society. Any human can Awaken; the spark of greatness potentially lies in anyone. When a new mage Awakens,
+the hidden Traditions — custodians who have handed down
+centuries or millennia of magical practices — seek out and
+educate the newcomer… if the Technocracy does not recruit
+her first. Some few go their own ways or succumb to insanity.
+Once the neophyte’s eyes have opened to the magical world,
+there is no turning back.
+Modern mages live a desperate existence. On one hand
+they discover that all of their dreams and ancient stories are
+true and that they have the power to shape the very world
+with those dreams. However, the monsters of those dreams
+are equally real, as is the threat of malevolent gods and
+wild magic too dangerous for an unprepared orderly world.
+The magician must balance awesome power with terrible
+responsibility, facing both the horrid mythic monsters that
+no other human can see and the Technocracy — who would
+rob her of her mystical understanding, calling it a threat to
+humanity’s safety.
+
+Armageddon?
+Mages say that the world careens toward a final end. As
+the Traditions bemoan the death of magic, the Technocracy
+realizes that humanity has settled into apathetic acceptance
+of the banal, orderly world. The spark of creativity gutters in
+humanity. Doomsayers prophesy that a final conflict shall
+eradicate magic and open the floodgates of destruction upon
+the world, either so it will be reborn in a new age or simply
+destroyed forever. Some prophets assert that one final savior —
+some unknown, last hero — will decide the final fate of magic.
+Others claim that magic’s fate was decided long ago when the
+Renaissance saw the birth of Age of Reason. This Armageddon
+surely comes soon.
+
+The Traditions
+Founded centuries ago in the hopes of preserving magic
+for this world, the Traditions hold the keys of mysticism,
+dreams and radical creation. Under the umbrella of the
+Traditions, mages can protect their cultures, learn about the
+new powers they’ve gained by Awakening and trade magical knowledge in safety. Tradition mages share their special
+MAGE INTRODUCTORY KIT
+
+7
+
+skills through elaborate theories and practices and bond to
+form cabals that work together. Through the Traditions,
+mages from across the world can gather mystic prowess,
+compare notes and exchange talismans, Quintessential
+energy, secret locations and other artifacts of power. The
+Tradition mages hope to guide humanity to accept wonder.
+Carefully hiding among normal humans, these mages work
+for a rebirth of magic.
+Although Traditionalists have their share of failings
+and foibles, most truly hope to make magic available to
+the world at large once again. These nine Traditions cover
+many different civilizations, with training from various
+exotic disciplines and mystic specialties. Due to their sheer
+diversity, the Traditions often act fractiously, and unity can
+be difficult. Still, they each have a vision for leading humanity led to marvels, and when they act in concert, they bring
+hope and wisdom.
+Beginning mages work heroically to forward the goals of
+the Traditions. Each mage hails from one of nine Traditions:
+• The Akashic Brotherhood: Warrior monks and Eastern
+scholars who combine martial arts with mental discipline.
+• The Celestial Chorus: Scions of faith who cherish
+the song of divinity that wells up in the human soul.
+• The Cult of Ecstasy: Seers who use dance, music and
+exotic trances to bring about altered visionary states.
+• Dreamspeakers: Shamans and spirit-talkers from
+across the world who share a tie to the primal realms of the
+spirit plane.
+• Euthanatos: Grim killers who balance the karmic
+Wheel of life and death by bringing peace to those who suffer
+too much or create too much suffering.
+• The Order of Hermes: A politically influential gathering of arcanists and wizards who study alchemy, astrology,
+symbology and the power inherent in words and forms.
+• The Sons of Ether: Mad scientists and inspired physicians who use personalized devices and push the cutting edge
+of technology.
+• Verbena: Witches, druids and their ancient cousins
+who nourish and protect the pulse of all life.
+• The Virtual Adepts: Cutting-edge information elites
+who specialize in computer hacking, data alteration and the
+spread of chaos.
+
+The Technocracy
+
+Arrayed against the Traditions stand the enlightened
+scientists of the Technocracy. Formed at first to protect
+humanity from the horrors of rampaging monsters and
+wild magic, the Technocracy became a ruling elite. Now
+the Technocrats use their super-science to guide the Masses
+while they stamp out anything that could prove remotely
+threatening, incomprehensible or uncontrollable — including the mystics of the Traditions. Technocrats follow
+rigid procedures to achieve their results, yet the space
+
+8
+
+MAGE INTRODUCTORY KIT
+
+ships and energy weapons that they wield might as well
+be magic to the unenlightened. Centuries of dominance
+over humans have given them a callous attitude: Only
+the few willing to follow their master plan and able to
+comprehend their ways garner merit — the rest become
+fodder for their vast projects.
+Technocrats comprise five Conventions. Iteration X, the
+cyborg convention, focuses on material science, metallurgy,
+weapons design and the border of man and machine. The
+New World Order appears to be a giant bureaucracy but delves
+carefully into education, psychology and the social sciences.
+The Progenitors study medicine and the mechanics of living
+beings, ultimately to create a better humankind. Syndicate
+agents watch the flow of money and global economies; these
+operatives blend in with businesses everywhere to bend entire
+countries to the Technocracy’s will. Beyond Earth, the Void
+Engineers explore the great deeps to keep out terrible aliens
+that might threaten mankind and build prosperous stations
+in space.
+
+The Nephandi
+
+While most mages struggle for personal enlightenment or
+a chance to improve their lives with magic, some twisted souls
+succumb to a darker temptation. Things cast from primordial
+darkness wait beyond the stars or hover in the depths of a
+mage’s own heart. Some such overlords offer power in exchange
+for service while others tempt mages with the possibility of
+
+knowledge at a catastrophic price. Those unfortunates who
+dive into the Cauls return only twisted and inverted, shadows
+of destruction instead of forces of creation. Each serves a different master, but ultimately every Nephandus seeks the return
+of total entropy, the dissolution of the universe to seething
+primordial turmoil.
+
+The Marauders
+Some few mages have not the strength to cope with
+the Awakening. Cast into a shattered world by their broken visions, these mages have mad illusions thrown across
+their lives. Little can save such mages from the random
+vagaries of their existence, and many remain barely able to
+comprehend the world around them. The Marauders lash
+out without rhyme or reason to make sense of a universe
+that will never conform to their delusional expectations.
+What other mages build up, the Marauders tear down,
+solely because they cannot find a comprehensible purpose
+to their enlightenment.
+
+The Disparates
+Hidden in isolated corners of the world, a few lonely
+magicians still ply the trades of their respective lost cultures.
+While the Traditions and the Technocracy cross the world with
+their overarching ideas, the Disparates hope only to maintain
+their ancient ways in peace. Each Disparate mage holds the
+seed of some culture’s unique insights into mysticism; few
+are ever alike. Now more than ever, the Disparates fear for
+their existence. The Technocracy ruthlessly crushes them and
+the Traditions offer sanctuary at the cost of cultural identity.
+Scattered Disparates form their own tiny cults or walk alone
+as self-educated Orphans.
+
+The Ascension War
+Once, a war was fought.
+The war spanned the entire cosmos. Mages battled
+for hearts and minds, to spread their ideals or fight the
+excesses of others. Tradition fought Technocracy to
+free humanity from baleful slavery to rationality while
+the opposition hoped to eradicate foolish myth and
+dangerous mysticism. Ancient Masters manipulated
+both sides to fulfill personal crusades.
+Now the Masters have vanished or died. Errant
+magicians must struggle merely to survive in a world
+inimical to their creative idealism. The Ascension
+War is over: Mages will not shepherd humanity to
+enlightenment in this age. Instead, the mages hope to
+survive and perhaps open the eyes of a few scattered
+individuals for whom the world can be more than crass
+material struggle.
+
+Mage Society
+In a secret conspiracy rife with disparate
+worldviews and people whose very whims change
+the universe, titanic visions clash with enormous
+egos. A single misstep can derail a mage’s goals for
+lifetimes, but success brings tremendous rewards:
+Followers, fellow visionaries, dreams that shape
+societies — even immortality.
+Because mages must spread their ideas if those ideas are to
+take hold, many magicians travel often. However, the wisdom
+of ages must be stored somewhere so that it can be passed on
+to new generations. Tradition and Technocracy mages alike
+train new recruits in the same places they keep their volumes of
+knowledge and most potent wonders hidden safely away — often
+in other worlds or dimensions but increasingly in remote areas
+of the material earth. In Tradition parlance, these holds are
+chantries, sanctuaries where the Tradition mages keep libraries,
+arcane devices and mystic allies.
+
+The Oracles
+Far beyond even the sight of most mages stand the Oracles.
+Legend holds that Oracles cast the fate of the world itself and
+perhaps that they stand against some great menaces that would
+destroy the earth entirely. Many stories tell of the Oracles’ feats:
+Some say that Oracles have Ascended and cast aside mortal
+concerns; others state that Oracles have achieved total puissance
+with their chosen Sphere of magical excellence; a few mages
+argue that the Oracles simply possess vast powers and take a
+long, watchful view, perhaps as demi-gods hovering over the
+earth from the spirit world.
+The Oracles rarely deign to visit the earth, for its petty struggles
+rank far below their powers. Even on the few occasions when an
+Oracle’s passage is noted, mages rarely comprehend the true depth
+of her schemes. Some mages, called postulants, seek to become
+Oracles themselves, but no recorded tale tells of their fates.
+
+The Archmages
+Deep in the spirit worlds, removed from the earth and
+its mortal days, the Archmages contemplate the mightiest applications of the magical Spheres. Each Archmage possesses
+understanding equal to hundreds of years’ work and the will
+to recast whole segments of reality at whim. Because of their
+immense powers, though, Archmages must beware lest the
+very Tapestry of the universe unravel at their touch. Thus,
+none dare to work within the constraints of the earthly realms.
+Instead, they travel sublime planes where their merest thoughts
+unveil deep mysteries of existence. Archmages preserve their
+lives far beyond the mortal span, and because of their vast
+potential, a sort of great détente prevents them from engaging
+one another directly, for surely the rains of fire and storms of
+destruction that would come in their wakes would spell doom
+to the whole of earth.
+MAGE INTRODUCTORY KIT
+
+9
+
+through magical specialties and bitterly argued or fought over
+among other mages who see the world in different terms.
+In these turbulent times, Disciples and Adepts form the
+core of mage society. They cast the new laws and decide the
+politics of Tradition. Although Masters might affect policy
+with a subtle comment or querying gaze, the sheer scope of
+activity and responsibility among the younger mages assures
+that it is they who drive the course of the magic community.
+Characters are assumed to be mages of Disciple level or below.
+Such Disciples can hope to rise to great prominence, but those
+erudite magics far surpass the scope of this simple kit.
+
+The Apprentices and Initiates
+
+The Masters
+The greatest of living mages on earth achieve the title Master
+to denote their supreme mastery of one Sphere of magic (or more).
+Given enough time and practice, most mages can hope to achieve
+this level of skill, but mastery can be the work of a full lifetime or
+more. Many pitfalls await along the road to mastery, for a mage must
+have great self-possession and insight to reach the enlightenment
+necessary. Indeed, mastery of magic is no promise of wisdom, for
+selfish pride can come hand-in-hand with great power.
+Few Masters remain on earth; their potent enlightenment
+attracts many enemies. The scale of magic employed by Masters
+also brings with it terrible peril; failure of complex formulae can
+lead to death, insanity or worse fates. Even so, most every mage
+still struggles for this level of skill — those who learn today may
+become Masters tomorrow, and every one hopes to use her power
+more wisely and effectively than the generations before.
+
+The Disciples and Adepts
+Among mages of moderate skill, much trade, jockeying,
+power-brokering and even combat decides who will lead and who
+will be left behind. Even a modicum of magely power can shake
+the foundation of the world in startling ways. Though a Disciple’s
+understanding is far from complete, these mages often travel
+widely, consult with Masters for advice, explore diverse realms
+and perform quests for personal gain or sagacity. Each Disciple
+has goals blanketed under the umbrella of Tradition, carried out
+
+10
+
+MAGE INTRODUCTORY KIT
+
+Those mortals who have just passed the cusp of awareness
+into magical enlightenment can never go back; they must advance
+or perish — but to what? Few understand the world into which
+they suddenly find themselves thrust. Without help, many go
+mad or become captured and programmed by the Technocracy.
+Tradition mages take these mages under their wings whenever
+they are found, dubbing these new learners Apprentices or Initiates. The newly Awakened must struggle to understand magic, to
+learn a way to handle their new insight. Apprentices often bring
+their unique worldview to their studies; a fledgling magician has
+a very different understanding of magic than a hundred-year-old
+Master, after all. The tension as an Apprentice tries to reconcile
+ancient practices with modern understanding can be considerable, and many Apprentices find themselves frustrated with
+their training before they achieve real competence. Fortunately,
+an Apprentice’s magic rarely takes forms strong enough to cause
+serious risk, but Apprentices themselves often become embroiled
+in the supernatural world just like other mages and may not have
+the power to protect themselves properly. Apprenticeship is just
+the beginning of a long and dangerous road that may end in
+understanding or tragedy.
+
+Character
+Creation
+Now that you have opened the door to the
+wonderful and terrible world of magic, you can
+create your own mage to explore it. Your mage
+character has only a few key specifics: Select a Tradition, rank the Traits and choose your Spheres
+of magic. Your mage also has ten points of Quintessence and
+seven health levels. Quintessence determines your character’s
+magical energy while health levels track bodily injury.
+Before you get down to picking your character’s Traits,
+think about the sort of mage you’ll play. Every character has
+a role in the story, enters from some place and hopes to go
+somewhere: What’s your mage’s role? As you play with a concept, you can get an idea of your mage’s Traits. A magician who
+started as a football star will likely be more physical compared
+to one who started with the mental acuity of a private inves-
+
+tigator. Because a mage starts out as a human but Awakens,
+your mage can come from any walk of life, so explore different
+ideas until you find one that works for you.
+Foremost among your mage’s qualities is the choice of
+Tradition. Your mage’s Tradition is his magical heritage. As
+such, the Tradition shapes all of the magic that your character
+works and determines the individual’s strengths in mystic
+understanding. Is your mage a wise but eccentric member of
+the Order of Hermes? A sensual and mind-blowing Cultist of
+Ecstasy? A grim, hard-bitten Euthanatos assassin? Write down
+your Tradition, then write down your associated Aptitude
+and Foci.
+After you’ve settled on a Tradition and concept, prioritize
+your Traits. Your character has four Trait categories: Physical,
+Social, Mental and Magical. Rank these from 1 to 4; 4 is the
+best and 1 is the worst — but you can only use each number
+once, so you’ll have a 4, a 3, a 2 and a 1. If you’re playing that
+hard-bitten private investigator, for instance, you may be really good at fact-finding and fisticuffs but a bit of a jerk with
+limited respect for “superstitious nonsense”: Thus, you’d rate
+the character Mental 4, Physical 3, Social 2, Magical 1.
+Finally, pick your character’s Sphere levels. Each Tradition
+teaches detailed knowledge of a specialty Sphere, but many mages
+also have some skill in other Spheres of magic. Spheres can be learned
+for Basic or Advanced magic. You automatically learn a Basic level
+of your Tradition’s Sphere. In addition, you can pick five more
+“levels” of Spheres: taking a Basic Sphere costs one “level” while
+an Advanced Sphere costs two additional “levels.” So, if you want
+your Tradition’s specialty Sphere at Advanced, that costs you two
+levels (because you start with the Basic level for free); if you want
+some other Sphere at advanced, that costs a total of three levels.
+Alternately, you can drop one Sphere level in exchange for raising
+one Trait category by a point: If you drop two Sphere levels, for
+instance, you can raise two Traits by one point each or one category
+by two points, say from a 2 to a 4. You can raise a Trait to a 5 in
+this way, indicating the pinnacle of human aptitude.
+Now you’re almost finished. Record your character’s
+Quintessence (10), health levels (7) and a few details: name,
+appearance, friends and family, habits and hobbies, personality and problems.
+Once you’ve written this down, your character’s ready to
+join the ranks of the Awakened. Check the following pages for
+more details on Traditions, Traits and Spheres.
+
+The Traditions
+Some Traditions have founders; others
+have heritages that are lost to the mists of
+history. A few exist in only modern incarnations. Whatever the case, each Tradition
+agrees to stand with its fellows, despite their
+differences, in the quest for magic. Burdened
+
+Character Creation Quick Chart
+• Choose Tradition: Write down the Tradition Aptitude and Foci. The choice of Tradition also determines
+your specialty Sphere.
+• Choose Traits: Rank your character’s Physical,
+Social, Mental and Magical Traits from 1 to 4; 4 is the
+highest, 1 is the lowest.
+• Choose Spheres: Note down your Tradition’s
+specialty Sphere. Then choose five additional Sphere
+levels, as follows:
+• One level selects a Basic Sphere.
+• Two levels select an Advanced Sphere — you must
+already have the Basic level.
+• One level trades in for an extra point on a Trait,
+and you can raise one Trait to level 5 this way.
+• Write down Health and Quintessence: Your mage
+starts with 10 Quintessence and 7 health levels.
+• Give your character a name, and make up some
+background, appearance, personality quirks, mannerisms,
+hobbies, habits and other notes for use in the story.
+
+by the weight of history, the Traditions each claim special
+privileges and difficulties.
+Because the Traditions hand down very specific forms
+of magical practice, each manages to pass down the strengths
+of its technique, but each also has specific shortcomings. A
+magician trained under the Order of Hermes, for instance,
+has great command of names and universal forces, but often
+labors under the weight of the Order’s political legerdemain;
+Virtual Adepts, conversely, excel at manipulating computers
+but have noted anarchic temperaments.
+A mage joins a Tradition for the training and advantages
+offered — without mentorship, development of magical arts
+proves difficult indeed. The Traditions thus give an opportunity for mages of like mind to come together and share their
+skills. Most mages know the predilections of each Tradition.
+The Verbena, for instance, are renowned for their command
+of Life magics, while the Akashic Brothers are regaled as the
+masters of the Mind.
+Your mage character needs to join with one of the nine
+Traditions (the Technocracy holds five Conventions and numerous Crafts and Disparates fill out the ranks of mages, but
+they are not detailed here). Each Tradition has an Aptitude
+(an area of the mortal world in which these mages often excel).
+Depending upon your Tradition’s teachings, your mage may use
+certain Foci; these are tools of magic, the trappings necessary
+to focus that Tradition’s mystic energies. Each Tradition also
+teaches a specialty Sphere — an area of magical theory where
+the Tradition focuses its research.
+
+MAGE INTRODUCTORY KIT
+
+11
+
+Akashic Brotherhood
+
+Cult of Ecstasy
+
+The martial arts of the Far East serve to hone mind, body
+and spirit and bring all three into harmony. The Akashic Brotherhood practices such arts and espouses a simple, holistic lifestyle,
+the better to promote a healthy existence. Through self-discipline,
+martial training, philosophy and meditation, the Akashic Brothers
+hope to realize the full potential of the human form. Historians,
+priests, warriors, teachers, poets, samurai and artists study with
+the Brotherhood. Such students hone their supreme martial skills
+through Do, the way of pure and unfettered body, combined with
+contemplation of the Brotherhood’s Akashic Record.
+Akashic Brothers (and sisters — the Tradition does not discriminate) are well-known for their phenomenal mental control
+as well as their bodily skill. An Akashic warrior can, with bare
+hands and feet, decimate opponents, performing martial wonders
+almost beyond belief. However, the young and hotheaded warriors often pull the Tradition into conflicts due to their desire
+to promote the Tradition’s beliefs in holistic living and morality;
+older Akashics recognize the folly of such recklessness and counsel
+wisdom instead, but youth will always be impatient.
+Aptitude: +1 with unarmed combat. The way of Do unlocks the natural highest potential of the human body, turning
+Akashic Brothers into phenomenal warriors.
+Foci: Meditation, martial arts
+Sphere: Mind
+
+Often mislabeled as pure hedonists, the Cultists of
+Ecstasy practice many and varied vices — all of them to excess. An Ecstatic doesn’t pursue pleasure for its own sake,
+though; as their name implies, Cultists seek ecstatic states
+of mind, trances where the psyche wanders into forbidden
+territory or passes into new realms of thought. By blowing
+through their normal inhibitions, the Cultists chart new
+territory of sensation.
+Driven and passionate, Ecstatics sometimes find it
+difficult to take matters seriously in the present moment
+— their thoughts wander across many dreamscapes. Still,
+they are known as prophets, for their ecstatic trances carry
+their perceptions into visions of past and future. Other
+magicians may consider Cultists wastrels or sybarites, but
+the Cultists know their own limits — and, ultimately, hope
+to surpass them.
+Aptitude: +1 to Social rolls involving persuasion or seduction. Cultists shed their inhibitions and encourage others to
+do likewise.
+Foci: Music, dance
+Sphere: Time
+
+Celestial Chorus
+Although separated from the organized churches for their
+unorthodox views, Celestial Choristers hear the song of the
+divine throughout all Creation. In harmony with the spirit of the
+universe, the Choristers help humanity to reach for that nobility
+and nurture the spark of grace within all living beings. Faith
+healers, wandering preachers, exorcists and miracle-workers find
+a home with the Chorus, whose mages combine their insight
+with the will of the divine. To the Chorus, every religion has
+value and every path to a noble life holds great truths.
+The Chorus is best known for its religious diversity. Specific
+beliefs may prejudice individual Choristers, but the Chorus
+as a whole encompasses all manner of religion. Through their
+faith the Choristers heal, harmonize and come in touch with
+the traces of the divine across the Tapestry. In song they find
+solace and share that peace with others.
+Aptitude: +1 on all tests of resolve. The Choristers have
+exceptional character and inner strength.
+Foci: Singing, religious symbols
+Sphere: Prime
+
+12
+
+MAGE INTRODUCTORY KIT
+
+Dreamspeakers
+Ancient beyond imagining, the Dreamspeakers trace their
+roots to the very first shamans to walk among humans. These
+visionaries have commerce with animals, plants and spirits,
+with the natural world and its spiritual reflection. Whether
+using a dream-catcher and a gourd rattle or exotic paints and
+techno-fetishes, the Dreamspeaker communes with the other
+side to bridge the gap between man and myth.
+Despite their recognition as a single Tradition, Dreamspeakers come from many folds. Early Tradition mages did
+not understand the differences between shamanic cultures,
+so Dreamspeakers include African practices, Australian aborigines, Ainu, Inuit, Native Americans and more — anyone
+with a strong and abiding respect for and tie to spirits. When
+the Dreamspeakers surpass the differences of their roots, they
+form strong bonds indeed: All walk through the same spirit,
+after all.
+Aptitude: +1 in the outdoors. Dreamspeakers have a
+strong tie to wild places and locales still haunted by spirits;
+even urban techno-shamans regale the winding streets and
+choked alleys.
+Foci: Chanting, tribal rituals
+Sphere: Spirit
+
+Euthanatos
+
+Sons of Ether
+
+In the teeming streets of this crowded world, huge
+families live and die in squalor or wealth, amid poverty or
+feasting, from war or plague. The Wheel of Reincarnation
+spins out lives for everyone without a care, and it lies upon
+each individual to make a destiny from random chance.
+Some few labor too greatly under suffering, though, and
+for them the Euthanatos bring release. Others bring suffering to their fellow humans — and for them, too, the
+Euthanatos come.
+Reputed as quiet killers and assassins, the Euthanatos
+seek to balance the scales of life and death, to fulfill the
+criteria for chance and to end suffering for humanity. For
+some, only the final release is enough, but the Euthanatos
+act as sharpened scalpels, not butchers’ knives: Precision
+and care go into every action. The Euthanatos take up the
+responsibility that nobody else will bear that others might
+survive them with better lives.
+Aptitude: +1 to armed combat. Euthanatos learn the
+secrets of death and assassination, though many hope to use
+such talents as rarely as possible.
+Foci: Weapons, symbols of chance
+Sphere: Entropy
+
+While most mages shun technology, the Sons of Ether
+embrace it, but only on their own terms. Other mages call
+them mad — but the Sons are enlightened by a true vision of
+a personal and inspirational Science! With their malleable
+understanding of subjective truth, the Sons of Ether create
+wildly elaborate theories that in turn give shape to fantastic
+devices. Each Etherite boldly advances the frontiers of Science
+in the fashion most suited to her, embracing the principles
+of Ether itself: luminous, invisible, infinitely malleable and
+all-encompassing.
+The Traditions consider the Sons of Ether crackpots,
+but the bizarre inventions of the Etherites often prove useful. When other magic would draw suspicion, an Etherite
+device might seem only unusual. Etherite understanding
+of technology also helps in countering the work of the
+Technocracy. For these reasons, and for their skill with all
+forms of raw materials, the Etherites make a valued addition
+to the Traditions.
+Aptitude: +1 to technology rolls. Sons of Ether excel at using
+electronics, plastics and similar materials of modern design.
+Foci: Bizarre technology
+Sphere: Matter
+
+Order of Hermes
+Early in the days of Greece and Rome, philosophers
+proposed radical new ideas to the foundation of the universe:
+Correspondences between objects of matter and thought;
+words that described fundamental key concepts of existence;
+symbols of geometry that held universal truths. Though some
+philosophers developed these ideas into sciences, hidden
+cults made them mystical — sciences founded on mystery,
+not fact, and built with spirit, not reason. These languages
+of symbols and tools passed down through secret cabals and
+houses until they came to rest among the most prominent
+society of wizards to emerge across Europe: The venerable
+houses of the Order of Hermes.
+The Hermetic mages study arcane sciences such as astrology,
+alchemy and the names of spirits so that they might have power
+over the material world. Recognized for their long-standing
+practices, their fierce dedication to ritual history and their strong
+contributions to the Traditions, the Order’s mages work at the
+forefront of Tradition politics and magical theory. Hermetic
+mages codify Spheres of magic, build new spells and carefully
+hide away the medieval precursors of their magic in the secret
+societies or fringe beliefs of the modern age.
+Aptitude: +1 with scholastic endeavors. Hermetic mages
+have perhaps the largest libraries and the most reputed tutors
+among all the Traditions, for they proudly hold dear their
+ancient ways.
+Foci: Mystic languages, wands
+Sphere: Forces
+
+Verbena
+The forbidding Verbena hold dear the ebb and flow of life
+itself. Like predators, though, Verbena recognize life as a thing
+that grows of its own accord, not something easily categorized,
+ignored or thwarted by human reason. To the Verbena, all
+that is natural is sacred. Acceptance of all living beings leads
+to understanding of the delicately interwoven patterns of life
+that spread throughout the cosmos.
+Verbena use old rites to propitiate their web of life and to
+invoke its power. By participating in sacred acts that reaffirm
+life, the Verbena channel its energies. Symbols of living flow
+become channels for growth, death and rebirth. Few can look
+into the pulsing heart of life with such unflinching acceptance
+as the Verbena.
+Aptitude: +1 to all rolls involving knowledge of the body.
+Verbena understand and accept living processes like no others,
+which gives them intimate knowledge of physiology.
+Foci: Runes, herbs
+Sphere: Life
+
+Virtual Adept
+
+Always on the cutting edge, the Virtual Adepts surf
+through the information age. Their vision is one of a Reality 2.0, a world devoid of the flaws of this poor meat body.
+Bits and bytes are the weapons of the Virtual Adepts. Data
+is their stock in trade, and by manipulating the very way
+that the cosmos stores information, the Adepts rewrite the
+MAGE INTRODUCTORY KIT
+
+13
+
+Tapestry of creation. Like the uncontrolled information flows
+that they follow, the Adepts are unpredictable, fast-moving
+and ready to surf to any new destination. They cruise the
+digital lanes, riding into the Digital Web — the projection of
+the World Wide Web within the spirit realm — and exploring the ephemeral ties that some say bind mystic lines with
+computer data routes.
+Because of their relative youth as a Tradition and their
+heavy reliance on technology, many modern mages look askance
+at the Virtual Adepts. There’s no denying their usefulness in
+combating the Technocracy, though, and the Adepts have a
+devil-may-care attitude that carries them through the feckless
+despair that falls upon many other Tradition mages. No Adept
+takes authority seriously, but when the chips are down, an
+Adept can be counted on to help her friends — if only so she
+can brag about it later.
+Aptitude: +1 to all tests involving computers. Virtual
+Adepts use special computers of their own design, often with
+AI partners, trinary hardware and other improbable technological advances.
+Foci: Computers, mathematics
+Sphere: Correspondence
+
+Traits
+Basic capabilities inherent to all people fall under the heading of Traits. Each Trait describes some quality that most people
+possess and measures the character’s potency in that area.
+Physical: This Trait describes a mage’s bodily capabilities:
+lifting power, reflex speed and endurance. Use this Trait to resolve
+all tasks involving fighting, climbing or survival.
+Mental: This Trait indicates a mage’s cerebral acuity, sensory awareness, logic and cleverness. Use this Trait to resolve all
+tasks concerned with perception, problem solving or reaction speed.
+Social: This Trait covers a mage’s ability with people and
+includes areas like command, manipulation and etiquette. Use
+this Trait to resolve all tasks concerned with intimidation, leadership
+and persuasion.
+Magical: This Trait shows a mage’s strength of will, psyche
+and enlightened understanding. Use this Trait to resolve all tasks concerned with magical power and resistance to supernatural influence.
+Traits range from ratings of 1 to 4; a rating of 1 indicates a
+poor Trait, while a rating of 4 indicates a world-class Trait. In rare
+cases a character may have a zero Trait, which indicates a total
+lack of capability in an area (for instance, a horribly crippled or
+maimed character may have a zero Physical Trait). It’s also possible for mages to reach the pinnacle of human understanding
+and to push just beyond, to a rating of 5 — some Archmages,
+it’s said, climb even higher (though most mages would be hardpressed to reach the phenomenal rating of 5 at all).
+The average human has ratings of 1 or 2 in most Traits.
+Mages do come from human stock, but those who Awaken
+find themselves thrust into a demanding world, and only the
+exceptional survive.
+
+14
+
+MAGE INTRODUCTORY KIT
+
+1
+2
+3
+4
+5
+6
+5+
+
+Trait Ratings
+Abysmal
+Mediocre
+Pretty good
+Really good
+Human perfection
+Superhuman (mages only)
+
+When you build a new mage character, you rank these
+Traits from 1 to 4. So, if you want to make your usual Akashic
+Brotherhood martial warrior, you might take Physical 4 (from
+years of unarmed combat training and conditioning), Mental 3
+(representing excellent discipline), Magical 2 (indicating some
+budding chi power and skill with meditation) and Social 1
+(because all those years spent in a monastery haven’t helped
+with people skills).
+
+Spheres
+Mages slowly study the miraculous power of
+the Spheres, the nine keys to the universe. Magical theory posits that the universe is infinite, but
+Tradition mages codify magic to make it possible
+to teach and communicate about their theories
+and practices. Each Sphere encompasses magical
+theories about one facet of reality. With influence in the proper Spheres, a mage can perform miraculous
+feats. True mystic understanding comes with time, practice and
+concentrated effort in the Spheres.
+Mages classify two levels of Spheres: Basic and Advanced.
+Each Sphere level grants a wide variety of supernatural powers
+though the mage must expend magical energy to use them.
+Activating a Basic Sphere costs one Quintessence; using an
+Advanced Sphere costs two Quintessence (though this includes
+the Basic levels). Mastery of a Sphere is cumulative — a mage with
+Advanced understanding can still perform the Basic tricks.
+To cast a spell activating a Sphere, a mage must use a focus
+(from her Tradition), and the player must make a Magic roll (difficulty 4). If the roll fails, then the magic doesn’t take effect; nothing
+happens. If the roll succeeds, then the magic does what the mage
+commands. If you decide that your mage will not to use a focus
+(perhaps because it would be inconvenient or because it requires
+an item that the mage lost), then the mage can still cast the spell,
+but it costs one extra point of Quintessence — see further.
+Some powers allow a mage to sense magic, minds, life
+forces and the like. These powers cost nothing; the mage can
+use them, for free, at any time.
+
+Correspondence
+Mages who study Correspondence learn to identify and cross
+space. These mages can form connections between things or places.
+
+Entropy
+Understanding Entropy unlocks the wheels of fate, destiny
+and decay. Everything spirals eventually into chaos, but the
+Entropy mage learns to see an underlying order.
+
+Basic
+• Control Chance: Minor elements of probability bend
+to the mage’s whim: The mage can shuffle and deal cards or
+roll dice and receive exactly what he predicted.
+• Increase Damage: A successful hit cascades into
+terrible damage; the mage uses Entropy to force the target to
+fall apart faster or just to take an unlucky wound. A successful
+attack with this inflicts one extra level of damage.
+• Sense Weakness: The mage can determine a target’s weak
+areas. By targeting specific weak points once they is located, the
+mage can avoid any penalties for the target’s armor or toughness.
+
+Advanced
+• Age Target: Infusing a target with excess Entropy
+
+Basic
+• Combat Sense: The mage becomes aware of the
+exact motions and positions of everyone nearby. The mage
+automatically gains the initiative unless someone else uses Correspondence or Time magic, in which case the two determine
+initiative normally.
+• Heightened Awareness: +1 to perception rolls. The
+mage learns to precisely sense distance and dimensional space
+around herself.
+• Remote viewing: The mage can see something a short
+distance away, scrying upon a nearby location or person. The
+mage sees whatever transpires at a location up to a mile distant
+as if he were standing there.
+
+Advanced
+• Teleportation: The mage simply blinks out of existence
+in one place and reappears somewhere else. The mage can generally teleport to any place she can see, including those she can
+see through other powers. Taking other people is possible but
+harder: Add one to the difficulty for each additional person.
+• Warp Space: The mage bends the very fabric of space to
+make distance malleable. The mage can make two far-away locations
+touch or cause an inch seem like a mile. The mage can use this
+power to help someone travel a great distance in a turn (possibly
+even leaping across the distance to attack) or can stop someone
+completely in one place by bending space around the victim.
+
+allows the mage to cause it to age and fall apart prematurely.
+The target gains a full year of age. Paper yellows, wood rots
+and people wrinkle; the shock alone may be enough to make
+someone fall unconscious.
+• Control Fate: The mage can influence the toss of fate.
+Pulling the thread of destiny lets the mage alter destiny now,
+but it will catch up later. The mage can re-roll any one roll at
+any point in the adventure, but the Storyteller can later re-roll
+any one roll against the mage.
+
+Forces
+Mages who study Forces learn to manipulate the fundamental constants of the universe: electricity, light, gravity,
+heat and so on.
+
+Basic
+• Energy Control: Manipulation of base energy lets a
+mage create or control various forces. The mage can make blasts
+of flame or bolts of lightning or can start or stop electronic
+devices. If used to attack or defend, this can cause or absorb a
+number of health levels of damage equal to the Magic successes
+scored +1.
+• Sense Energy: The mage can “tune in” her senses to other
+wavelengths of energy, like X-rays, radio waves, heat and so on.
+• Telekinesis: With concentration, the mage can pick up,
+move and manipulate small objects at a distance. Anything that
+the mage can see, he can affect as if he could touch it himself.
+
+Advanced
+• Energy Mastery: The mage can conjure or manipulate
+many forms of energy in various states. Used to attack, the mage
+can hurl infernos or blasts of radiation that do health levels of
+damage equal to the successes scored +3. The mage can also
+
+MAGE INTRODUCTORY KIT
+
+15
+
+make a shield against such attacks. By manipulating gravity or
+kinetic energy, the mage can also fly.
+• Weather Control: Like the witches of legend, the
+mage can guide and direct the very weather. The mage can
+cause clouds, storms, wind or clear skies. This lasts for about
+ten minutes and covers approximately a city block.
+
+Life
+The secrets of Life yield influence over all growing things,
+from animals to people.
+
+Basic
+• Healing: With a touch, the mage caresses the subject
+and heals away injuries. The subject heals one health level for
+each success that the caster scores on the Magic roll.
+• Minor Mutation: A skilled mage can improve on
+Mother Nature. Again, the mage must touch the subject and
+cast this spell. The mage can then increase or decrease the
+subject’s Physical Trait by one. This can briefly raise someone
+to a 5 or lower someone to a zero. The effect lasts for about
+an hour and is not cumulative — that is, you can’t keep raising
+and raising someone’s Physical Trait over and over once you’ve
+already improved it!
+• Sense Life: The mage’s finely tuned sense of life allows
+her to recognize the presence of living beings about her. The
+mage can distinguish different animals or people by their life
+signs and can easily tell if they’re injured or diseased.
+
+Advanced
+• Shapechange: The mage can assume the form of
+any animal she likes, turning into a dolphin, a pigeon, a lion
+— whatever! Or, she could just choose to change her human
+shape a little, looking anywhere from slightly different to appearing a little like someone else (not well enough to pass a
+close inspection, though). This lasts for up to a day.
+• Major Mutation: With a touch, the mage changes
+a living target in nearly any way she desires. The mage can
+change the subject’s Physical Trait by one and can also give
+the target some strange new feature like claws, gills or fur. As
+with a minor mutation, this lasts for about an hour. A major
+mutation can allow a human to soak damage from combat
+(see the Combat rules).
+
+Matter
+Matter represents the building blocks of the universe.
+With control over Matter, a mage can alter the very stuff of
+the physical world.
+
+Basic
+• Create Object: The mage can conjure simple objects
+from out of nothing! Simply specify the desired object — any
+simple thing that you could hold in your hand — and you can
+make it. The object stays for about an hour.
+
+16
+
+MAGE INTRODUCTORY KIT
+
+• Reshape Object: The mage easily reshapes matter,
+sculpting objects as if they were clay. The item changes under
+the mage’s hands to take whatever form the mage chooses to
+shape it into. This change is permanent.
+• Sense Matter: The mage can easily identify anything
+he can sense. The mage automatically knows an object’s density,
+mass, composition and other physical characteristics.
+Advanced
+• Alter Properties: The mage can swap around characteristics of various objects. By touching a piece of steel, for
+instance, the mage can take its hardness and give that to a
+shirt. Or she could make a pencil have the luster of gold. The
+object keeps all of its other characteristics; the shirt wouldn’t
+look like steel, and the pencil could still write or snap in half.
+This lasts for an hour.
+• Transmutation: Like alchemists of old, the mage literally changes one object into another. The rarer and more complex
+the final object, the harder it is to transmute something. The mage
+could turn her coasters into solid silver or change an enemy’s
+gun into air. The transmutation, if it works, is permanent.
+
+Mind
+The secrets of the Mind grant control over thought and
+the realms of thought beyond the shell of the body.
+
+Basic
+• Command: By combining a mental imperative with
+a command, the mage causes a subject to obey a simple order.
+If the mage defeats the victim’s Magic roll (the victim rolls at
+difficulty 4), she can force the subject to obey a simple, nonharmful command.
+• Empathy: With a careful attunement, the mage senses
+the target’s emotions. Each success on the Magic roll lets the
+mage ask one yes-no question about the subject’s state (“Are
+you lying? Are you angry? Are you nervous?”).
+• Sense Mind: Other thoughts around the mage create a
+noticeable disturbance. When attuned to thoughts, the mage can
+sense other minds around himself even if he cannot see them.
+
+Advanced
+• Possession: The mage takes direct control of the target’s mind! If a mage’s Magic roll scores more successes than
+the target can get on a Magic roll (difficulty 4), then she takes
+complete control of the subject for a number of turns equal
+to the difference. So, if you get three successes and the target
+only gets two, you have a turn to command his actions.
+• Telepathy: Your mage can send thoughts, read minds
+and make direct mind-to-mind contact. With a willing subject, your
+mage can easily transmit or receive thoughts — even language is
+not a barrier. If you want to use Telepathy on an unwilling subject,
+the target gets a Magic roll (difficulty 4) to resist; if she scores more
+successes than you did, your Telepathy does not work.
+
+• Sense Magic: The mage easily sees the magical aura
+around people, places or things. She can detect Tass, determine if a place is a Node or see the Quintessence that other
+mages hold.
+Advanced:
+• Imbue Magic Item: The mage can place magical
+power into an item for later use. You can simply choose to
+put Quintessence into a normal item, making it into Tass.
+Or you can put one of your magical powers into an item so
+that other people can use it. Choose one magical power and
+spend the Quintessence for this effect AND for that effect.
+Then, spend extra Quintessence equal to the number of times
+you want the power to be usable. So if you want to make a
+wand that shoots blasts of fire, spend two Quintessence to
+make the wand magical, one more for the Forces magic and
+one additional point for each fire blast you want the wand
+to be able to shoot.
+• Improved Channeling: Not only can the mage take
+Quintessence from a Node or Tass, he can briefly channel a
+spark of Quintessence to negate Paradox or refresh himself.
+Each success scored on the Magic roll gives the mage one extra
+point of Quintessence or negates one point of Paradox from
+the next spell cast.
+
+Spirit
+The spirit world waits just beyond the Gauntlet, next to
+our own slumbering physical realm. There, powerful entities
+wait for Spirit magic to summon them.
+
+Prime
+The very Tellurian, the universe itself, seethes with the
+energy of Prime. Every thing and every piece of creation comes
+from the power of Prime infused into a Pattern that shapes
+the object or creature.
+
+Basic
+• Aggravated Attack: Your mage can make a strike
+very deadly by infusing it with Prime power! An aggravated
+attack cannot be healed with magic — mark off the health levels
+with a star (*) to indicate the special damage. This damage
+only heals with rest and time. An aggravated attack modifies
+an existing attack, so your mage needs to make some other
+attack (like firing a gun or throwing a fireball) and then use
+this in addition.
+• Channel Power: With a touch, your mage can transfer
+Quintessence from object to person, person to person, object
+to object and so on. The character can take Quintessence from
+a Node, give Quintessence to another mage or transfer from a
+piece of Tass to another piece of Tass. You cannot steal personal
+Quintessence from another mage, though; the mage must give
+it away with this power.
+
+Basic
+• Affect Spirit World: The mage can reach into the
+spirit world and call for help or affect things there. Once successful, the mage can use her normal Traits in the spirit world
+for a number of turns equal to the successes rolled for the spell.
+This allows the mage to attack spirits with her Physical Trait
+while staying in the material world or to call for help with her
+Social Trait.
+• Sense Spirits: The mage is aware of spirits nearby.
+If desired, the mage can detect anything that happens in the
+spirit world within physical range of his normal senses: So
+if a spirit is in the immediate area, the mage sees and hears
+it just as if it were physically present (but can tell that it is
+a spirit).
+• Spirit Travel: The mage makes a tear in the Gauntlet
+and steps into the spirit world. Once there, the mage can travel
+through spirit realms until she chooses to return (or until some
+mishap befalls her). Each extra success past the first lets the
+mage bring an extra person.
+
+Advanced
+• Spirit Servant: The mage can bind a spirit to his
+service. If you can beat the spirit’s Magic roll with your Magic
+roll, the spirit is forced to serve your mage. The spirit remains
+MAGE INTRODUCTORY KIT
+
+17
+
+Advanced
+• Stop Time: The mage can step laterally outside the
+flow of time so the rest of the world seems stopped. The mage
+can then take one turn while everything else remains held in
+time. Or the mage can stop something else while letting the
+rest of the world flow on: So the mage could stop a thrown
+knife in mid-air for a turn and then walk away. The mage must
+be able to see the target of the spell.
+• Superior Speed: The mage gains one extra action on
+the turn after casting the spell. Additionally, the mage always
+wins initiative if this power is active, unless someone else
+also uses Advanced Time.
+
+Quintessence,
+Paradox and Health
+Besides the previously-listed Traits, mages have three
+other pertinent aspects: Quintessence, Paradox and
+Health Levels.
+
+Quintessence
+
+a servant for one day for each extra success that you score: If
+you get four successes and the spirit gets two, it is forced to
+serve your mage for two days.
+• Travel the Cosmos: The very far away places of the
+spirit realm are hostile to life, but the mage can now travel
+safely there. The mage can travel to any place in the cosmos
+through the spirit world, though this may take a great deal of
+time. The natural hazards and creatures of the spirit world can
+still hurt the mage, of course.
+
+Time
+The inexorable march of Time proves malleable to properly
+erudite mages. Control of Time affects the flow and perception
+of the clock and even lets the mage alter past and future.
+
+Basic
+• Increased Speed: The mage automatically wins the
+initiative because of her command of Time. If another mage
+uses magic to win the initiative, then the two test normally.
+• Precognition/Retrocognition: The mage can gather
+brief glimpses of a possible past or future. What the mage sees,
+exactly, is up to the Storyteller. Generally, the mage can see
+one day into the past or future though, with many successes,
+longer durations might be possible.
+• Sense Time: The mage can tell if someone in the
+area is using Time magic or if a strange time warp or other
+anomaly manifests.
+
+18
+
+MAGE INTRODUCTORY KIT
+
+The “fifth essence” helps mages to perform miraculous
+feats. A mage can feel this magical energy as it fuels her powers.
+Often, mages fight for places of power where they can collect
+Quintessential energy. Mages can hold ten points of Quintessence, using it to cast their spells.
+A mage spends one point of Quintessence when she performs a Basic spell and two when she performs an Advanced
+spell. If she performs the spell without using foci, she must
+spend an extra point of Quintessence.
+Mages find Quintessence in magical treasures called
+Tass or naturally occurring mystic places called Nodes. A
+mage with Prime magic can sense such items and places
+when they are near, which can help a cabal to replenish its
+power. Most chantries have a nearby Node and may charge
+visiting mages to use it for Quintessence. Tass, on the other
+hand, takes the form of physical objects that must be broken
+or consumed; Tass-laden bread, for instance, gives the mage
+Quintessence when it’s eaten. Mages with Prime magic can
+also give Quintessence to their friends.
+
+Paradox
+Paradox represents reality bending back to assault
+the magic. When a mage casts a spell to fly in the air, the
+“real world” says that the mage can’t fly — it’s a Paradox!
+So, the magic sometimes goes awry. Therefore, a mage
+gains one point of Paradox any time that he attempts to do
+something that couldn’t happen in the “real world.” The
+“real world” says that people can’t throw lightning from
+their fingertips, so a mage would get a point of Paradox
+for doing that. However, nothing says that you couldn’t
+just happen to find some extra change in your pockets, so
+if a mage uses a spell to “help” him find a little cash in his
+wallet, it’s not a Paradox.
+
+A mage can choose to bend reality by will alone — this
+costs no Quintessence. Instead, the mage gains Paradox points
+equal to the Quintessence cost. So, if a mage wants to do an
+Advanced spell but only has one point of Quintessence, she
+spends the Quintessence and gains one point of Paradox.
+When the mage gains Paradox, roll one die and consult the
+following table. Unless the table says otherwise, all of the mage’s
+Paradox goes away once the roll is done.
+If a mage takes damage from Paradox, it takes the form
+of nasty welts or burn marks. Magic will not heal Paradox
+damage, only with time. A Paradox Effect, on the other hand,
+means that the magic does something unexpected: It might
+affect another target, work at half strength, become reversed
+or do anything else that the Storyteller decides. The mage has
+no control over the end result.
+
+Paradox Chart
+1
+2-3
+4-5
+6
+
+Remove the Paradox; nothing bad happens…
+this time!
+Take one health level of damage per point
+of Paradox
+Take one health level of damage (total), and
+a Paradox Effect
+Save up the Paradox until next time
+
+Health
+Mages are essentially human, and thus take damage as
+mere mortals do. They have seven health levels before taking
+fatal damage, each representing increasing stages of wounding.
+They are Light, Light, Medium, Medium, Serious, Serious and
+Critical. As wounds are accumulated, each box is checked off.
+Magic may used to heal this damage, as described under the
+basic life power: Heal Wounds.
+
+Pain
+A mage who is hurt suffers negative modifiers due to the
+pain he is in. After having reached the Medium health level,
+a mage is at -1 die to all actions. At the Serious wound level,
+this increases to -2 dice to all actions. At Critical, the mage has
+a 1 die maximum, without even the benefits from his Tradition’s training. 1 die is the minimum number of dice rolled,
+regardless of wound level.
+
+Death
+When all health levels of damage have been taken, the
+character is nearly dead. She will bleed to death within a
+number of minutes equal to the Physical Trait. Medical efforts or magic can prevent this if done in time. If not, the
+character is dead and is out of play for good. Time to make
+a new character!
+
+Rules
+Most of the time, the events of a mage game
+are merely a narrative description as created by
+the players and the Storyteller working together.
+Sometimes, though, the game requires rules for
+dealing with more involved actions.
+The quick start system uses six-sided dice for
+actions. Six-sided dice can be found everywhere:
+Check a common board game, a hobby shop — pretty much
+anywhere — and you can get these dice. Even one will do, though
+more are recommended for ease of making rolls.
+When a character undertakes an action and the Storyteller
+decides the outcome is uncertain, the player rolls to determine
+what does occur. The Storyteller determines which trait is most
+appropriate to the roll — Physical, Magical, Mental or Social — and
+has the player roll that many dice, plus or minus any penalties
+or bonuses the character might have. The difficulty number
+is a value between 2 and 6 as assigned by the Storyteller. If at
+least one of the dice equals this number, the attempted action
+succeeds. If not, it fails.
+
+Automatic Tasks
+versus Dice Rolls
+Most of the time, actions attempted are automatic. If a
+player has her character walk down a street or buy groceries,
+the action succeeds automatically and does not require a roll.
+For dramatic purposes, other tasks, such as cooking or driving,
+can be assumed to succeed without rolls, even though there is
+a possibility of failure. A roll need only be made if an event’s
+success or failure has dramatic effect or if the chance of failure
+is particularly high.
+
+Difficulties
+Difficulties range from 2 to 6. Difficulty 2 actions are
+commonplace and easy while difficulty 6 actions are almost
+guaranteed to fail. As a general rule, the standard difficulty
+is 4. The highest difficulty is 6, even if the difficulty should
+be higher — if necessary, reduce the difficulty to 6.
+2
+3
+4
+5
+6
+
+Easy (Starting up a computer)
+Routine (Getting a Tradition librarian to help
+with research)
+Normal (Driving in rough traffic and bad
+weather)
+Challenging (Completing an hour-long ritual)
+Really tough (Besting a powerful spirit in a
+contest)
+
+MAGE INTRODUCTORY KIT
+
+19
+
+Number of successes
+For each die that equals or exceed the difficulty, you garner
+one “success.” A single success indicates that the action succeeded,
+if only barely. Getting more successes indicates a greater margin
+of performance. As an example, a Virtual Adept (Mental 4) is
+writing a computer program to steal money. A single success
+indicates that the program works most of the time but only manages to steal a little money and perhaps leaves traces behind. If
+the player rolls three or four successes, the program would steal
+larger amounts of money without any traces left behind.
+Successes
+1		
+2		
+3		
+4+		
+
+Quality
+Just barely
+Good job
+Well done
+Excellent performance
+
+Example of Play
+Rebecca’s character, Lucinde the Hermetic, needs to dig
+through an ancient Hermetic library for research notes on
+a spell that she hopes to study. After the character spends
+several hours of sorting through files, which the Storyteller
+merely describes briefly, Lucinde discovers a book that looks
+promising — but someone has misfiled it! The Storyteller asks
+Rebecca to make a Mental roll, difficulty 4, to figure out where
+the book could be; Rebecca knows that it’s somewhere in the
+library, probably nearby, just misplaced (the Hermetics frown
+on letting books actually leave their libraries). Rebecca rolls two
+dice for Lucinde’s Social Trait of 2, and scores a 5 and a 2 —
+just enough to get one success! After another fifteen minutes
+of searching, she discovers the book.
+If the Storyteller had decided that the book were hidden in
+an alcove or the cover had been torn off to make identification
+impossible, she might have raised the difficulty of the roll to 5
+or 6 or might have decreed that Rebecca needed two successes
+for Lucinde to find the book.
+
+Contests
+Players will often find their characters in conflict with other
+creatures, people, mages, supernatural beasts, and the like, not
+merely attempting unresisted actions. These events are known
+as contests and are resolved slightly differently that normal rolls.
+Each character involved rolls dice normally against the same target
+number. The highest number of successes wins, while ties reroll.
+As with normal rolls, almost all contests are difficulty 4.
+The aggressor rolls first in a contest, then the defender.
+Example: Xian the Akashic monk tries to execute a perfect
+push exercise against her practice partner, who is trying to
+push back. Xian’s player rolls Physical 3 (3 dice) and scores 2,
+4, 6 — two successes. The opponent rolls Physical 2 (2 dice)
+and garners 1, 4 — one success. Xian manages to push her
+partner off-balance with her masterful skill.
+
+20
+
+MAGE INTRODUCTORY KIT
+
+Drama
+Being magical people, mages tend to find themselves in all
+sorts of quandaries, from battles to spirit journeys to illogical
+strangeness. The following systems help to clarify some such
+possibilities.
+
+Time
+Mages long ago realized that time is hardly set — a moment can seem to crawl while hours fly; the past is as fluid as
+the future. However, in game terms, it’s useful to define time
+a bit more concretely.
+Turn: A turn takes about three seconds; it’s used for fast
+moves, when split-second decisions are made and people are
+rapidly responding to the action around them. Each character
+gets one action in a turn unless some magic speeds this up.
+Scene: A scene covers a sequence of events that happen
+in the same basic area and block of time. So, if the characters
+spend some time in a restaurant or walking down the parkway,
+that’s a single scene. Once the characters leave for a new locale
+or break for time to pass, the scene shifts.
+Story: A sequence of scenes and events tells a story. Usually
+a story covers a series of scenes that go from inception to climax
+to resolution though not all stories are so strictly defined. A
+story simply tells one tale from beginning to end.
+Example: In the movie The Matrix, each trade of Neo and
+Morpheus’s kung fu strikes takes a turn; the entire training
+program in the dojo lasts for a scene; and the whole of the
+movie tells a single story.
+
+Initiative
+Who goes first? When multiple people act, time is of the
+essence — and the first one there gets the prize as they say. The
+character who goes first in a turn is said to have the initiative: The
+character’s on the up-and-up, executing her plans before others.
+To determine initiative, compare Traits in this order:
+Advanced Time (Activated)
+Basic Time or Correspondence (Activated)
+Highest Physical
+Highest Mental
+Ties: Roll one die; the highest roll wins. Keep rolling until
+the tie is resolved.
+Example: Xian uses her skills at Do to launch a devastating
+kick at a Technocratic cyborg drone. Neither has Advanced
+Time. Both have Basic Correspondence, so they compare
+Physical Traits. Xian has a 3 and the cyborg has a 3. Comparing
+Mental Traits, Xian has a 4 and the cyborg a 2; Xian goes first.
+If they had had the same Mental Trait, then the tie would’ve
+gone to whoever rolled highest on one die.
+If Advanced Time grants an extra action, that action comes
+at the end of the turn after everyone else acts. Multiple people
+with Advanced Time actions go in the order listed above.
+
+Combat
+Mages battle over the very fundamentals of
+the universe — no wonder they get into scrapes!
+The Technocracy brings weapons to bear against
+the Traditions, who in turn use their mystic
+powers to defeat their foes.
+Combat generally runs in turns. Each combatant takes his action according to his initiative
+and determines the results with the system previously described.
+Most combat falls into the Physical task category though a mage
+can use magic to launch various telepathic assaults and force
+strikes. Aside from magical attacks, basic combat falls into one
+of two types: close combat and ranged combat.
+
+(from long range to medium, for instance, or from long range
+to out of range).
+• Straight Run: If the defender simply charges the attacker
+without dodging, he may not defend and uses up his turn, but
+if he survives, he ends the turn in close combat range.
+Damage: Damage from thrown objects and gunshots depends
+upon the accuracy of the attack. A thrown object scores damage
+equal to the successes scored +1; a fired mechanical missile, like a
+crossbow bolt or arrow, does damage equal to the successes scored
++2; a bullet does damage equal to the attack successes scored +3.
+Soak: Bullets and thrown objects can be soaked by armored
+or defended characters as with close combat attacks; most mages
+will not get to soak these attacks without magic.
+
+Close Combat
+When characters fight with fists, swords, claws and similar
+weapons, they’re in close combat. Attacks move in order of
+initiative. Each attacker can strike, grab or dodge.
+• Strike: The attacker rolls Physical (difficulty 4). The
+combatant contests with a defense (Physical, difficulty 4). If the
+attacker scores more successes than the defender, he hits.
+• Grab: The attacker rolls Physical (difficulty 4). The
+defender defends as usual (Physical, difficulty 4). If the attacker scores more successes, he grabs the defender. Each turn
+thereafter, the attacker automatically inflicts damage until the
+defender manages to injure the attacker.
+• Dodge: The defender actively dodges all incoming attacks. The dodging defender gets a +2 to all of her Physical rolls
+to avoid attacks; if she manages to beat the attacker’s successes,
+she gets the initiative on the next turn!
+Damage: If an attacker hits, she scores damage levels
+equal to her Physical Trait, or (if using claws or a weapon) her
+Physical Trait +1.
+Soak: Although mages are mortal, altering a character’s body
+with Life magic may enable her to absorb some punishment; and
+robots, spirits and monsters can often soak up damage. Such
+defenders get to make a Physical roll (difficulty 5); if successful,
+the character takes only half damage, rounded up. Aggravated
+damage —caused by the Prime magics — cannot be soaked.
+
+Ranged Combat
+Thrown objects, arrows, guns and the like are part of ranged
+combat. The attacker can choose to strike with a weapon while
+defenders can only hope to dodge or use magic to defend.
+• Strike: A ranged strike can be at short, medium or
+long range. Long range is difficulty 5; medium is 4; short is
+3. At short range, though, the defender can use close combat
+against the attacker.
+• Dodge: A defender can dodge normally, just like in
+close combat; success does not automatically grant initiative.
+However, the dodging defender can choose to run and change
+the distance between herself and the attacker by one category
+MAGE INTRODUCTORY KIT
+
+21
+
+The Umbra
+Beyond the reach of our world lies a shimmering reflection — the Umbra. The Umbra is the spirit world: The
+psychic reflection of everything physical. If a tree or a valley
+exists in our world, it exists as well in the Umbra. However,
+age and strength of spirit hold more weight there; an old,
+dilapidated house that held a family for three generations
+will show up more strongly in the Umbra than a brand-new
+skyscraper, which might not yet exist at all. Throughout the
+Umbra, spirits move and dwell, sometimes peeking in on
+human affairs. Daring mages can even cross over to that side
+to travel the land of spirit.
+Traveling to the Umbra is dangerous business. In
+legends, only great heroes like Orpheus dared to travel
+into the spirit world, and sometimes they did not return.
+A mage who dives into the spirit world using Spirit magic
+suffers one level of aggravated damage, just as if hit by the
+Prime-powered Aggravated Attack; this cannot be absorbed
+or prevented.
+Once in the Umbra, the mage is ensconced in a sea of
+wonders. The Near Umbra mirrors our world, and the mage
+can freely travel about and even return to the material world.
+By reaching beyond, though, the mage can travel to other spirit
+realms. The mage can also dive into the Underworld, the land
+of the dead. There, ghosts roam and demand aid from the
+living, but it is not safe — mages who travel there risk joining
+the dead forever.
+There are many spirit planes in the Umbra. Any place that
+people can imagine can exist here. In distant realms, there may
+be paradises or torturous deserts, science fiction realities or
+fantastic jungles. Some places are realms of abstract thought.
+Others house primal instinct and passion from days when the
+world was newly-born.
+Mages with Advanced Spirit magic can travel further
+into the Umbra. These mages can dive into the Deep Umbra,
+the cold realms beyond space. Strange things wait in the
+Deep Umbra; it is said that these creatures are patrons to
+the Nephandi. Mages so far afield can also find other worlds
+like Earth, places inhabited by other creatures with their own
+Near Umbrae.
+Reaching into the Umbra takes time and effort. The difficulty for the Magic roll varies with the area. Strongly spiritual
+areas offer easier access into the spirit worlds than more technological and rational places.
+Within the Umbra, different rules apply. Magic is easier
+there. The spirit world keeps magic alive. Mages do not risk
+Paradox in the Umbra unless they are forced to cast spells without Quintessence. Even then, the Umbra bursts with energy;
+mages can usually find some Quintessence in the form of small
+wellsprings of energy or by bartering with spirits. Unfortunately,
+any Paradox that a mage already has does not go away just by
+entering the Umbra.
+
+22
+
+MAGE INTRODUCTORY KIT
+
+2
+3
+4
+5
+6
+
+Umbra Crossing Difficulty
+Secluded glade
+Deep woods
+Park
+Suburbia
+Downtown
+
+Nodes
+Nodes represent places where Quintessential energy pours
+through the Umbra and the material world. These junctures
+always act as places where mages can cross easily into the Umbra
+(difficulty 2). Better still, Nodes represent power. Each Node gives
+off a small amount of Quintessence. Mages with Prime magic
+can take that Quintessence for themselves. Left undisturbed,
+a Node leaves Quintessence in small objects around it; these
+things become Tass, which mages can collect and use.
+Many mages hope to build chantries at the site of Nodes
+so that they have easy access to Quintessence. Some mages
+even use the power of Nodes to cast their spells so that they
+can have homes in the Umbra where they visit.
+
+Spirits
+Nodes and Umbral realms are home to spirits. These
+beings are creatures of ephemera, spiritual matter, and they
+represent emotions or concepts. Each spirit has a particular
+special province, so there are spirits of fire, spirits of peace,
+
+spirits of reason and spirits of power, and many, many more.
+Spirits vary in scope: Some are quite small and weak while
+others command vast powers beyond those of mortal mages.
+However, spirits are usually trapped in the Umbra unless a mage
+uses Spirit magic to bring them to the material world.
+A spirit’s personality and motives depend upon its type. A
+small, not-very-bright fire spirit might simply try to set everything
+in reach upon fire, but a crafty old fire elemental could barter
+with mages for rare incenses and special things to burn. Mages
+who deal with spirits can try to use their magic to bind or fight
+them, but eventually their luck will run out; it’s usually better
+to pay respect and deal with the spirits on even terms.
+Spirits have all of the usual Traits except Physical: Most
+spirits have no physical form. A spirit that is attacked physically
+is unaffected unless the mage uses Forces or the Prime power of
+Aggravated Attack; the spirit defends with its Magic Trait. Because
+they are not human, spirits are not limited to 1-4 for their Traits,
+and very powerful spirit lords may have ratings of 8 or more! A
+spirit does not use Spheres for magic; instead, it has two or three
+powers based on its type. So, a fire spirit would simply roll its Magic
+rating and spend one Quintessence to try to light something on
+fire. The Storyteller can simply choose an appropriate effect from
+the Spheres to simulate these powers, of course.
+Spirits do have Quintessence, and mages can barter with
+spirits for this energy. Spirits may give Quintessence to mages
+if properly supplicated.
+
+Pursuit and Chases
+Sometimes, characters get involved in drawn-out chases.
+Chases are resolved just like initiative: The faster character wins.
+Advanced Time (Activated)
+Basic Time or Correspondence (Activated)
+Highest Physical
+Highest Mental
+Ties: Roll one die; the highest roll wins. Keep rolling until
+the tie is resolved.
+Example: Xian flees from the Iteration X cyborg after
+injuring it, realizing that it has a plasma rifle. She has Basic
+Correspondence, but so does the cyborg. She has 3 Physical,
+but so does the cyborg. She has 4 Mental while the cyborg
+only has 2. Xian manages to evade the hunter-killer!
+
+Social Interaction
+When belief is on the line, people can get downright
+fanatical. Mages can argue, harangue and resolve their social
+difficulties in many ways.
+• Intimidation: Roll the Physical Trait for physical threats,
+the Social Trait for condescension or the Mental Trait for
+intellectual bullying. The victim resists with her Magic Trait.
+This is a contested roll.
+• Leadership: A mage can try to bring disparate groups
+together or issue orders, but must make a Social roll. An unwilling subject can contest with a Mental roll.
+
+• Seduction: The mage uses his Social roll in a contest
+against the subject’s Magic rating.
+
+Stealth
+Sometimes mages just have to sneak around, like when
+Tradition mages need to get past Technocracy guards or
+through a secure complex. The stealthy mage rolls Physical
+(difficulty 4) while the guards try to contest with Mental (also
+difficulty 4). If the mage wins, she’s undetected; if the guard
+wins, he spots the sneak. On a tie, the guard thinks he sees
+or hears something and becomes alerted and cautious; future
+rolls to spot the mage are at difficulty 3 for the remainder
+of the scene.
+
+Story Ideas
+• The Awakening: The mages are initiates who
+have just recently awakened to their magical
+powers. They must find Tradition mentors,
+discover the limits of their capabilities and deal
+with their role in a dangerous, magical world.
+Technocratic agents may seek them out for
+recruitment, or to destroy them. How will they
+reconcile magic with their lives? What about their families and
+un-Awakened friends?
+
+• Traditions Lost: The Traditions have lost much knowledge
+throughout history. The mages could gain prestige, power,
+or just renewed hope for the Traditions by recovering some
+lost item of wisdom. The mages might need to travel to a new
+city or country, track down leads, talk to other magicians who
+have heard of this lost relic and so on. Perhaps they can go to
+the Umbra in search of spirits that know about the formulae
+they seek. Do they use the knowledge for their own gain?
+Unearth forbidden lore that was hidden with good reason?
+Risk the Traditions over a piece of magic that’s become
+worthless over the years?
+• Fightin’ Words: Mages from different Traditions argue over
+their respective roles and beliefs. An Akashic Brother might try
+to rail against the use of technology while a Virtual Adept uses
+computers to free peoples’ minds. How do the friends reconcile
+their positions? Can their magic find a way to work together?
+What if one takes serious steps — like dealing with Nephandi or
+Technocrats — to gain an upper hand for her position?
+• Social Darwinism: The mages decide to make a positive
+change in their community, using their newfound powers.
+Perhaps they run a shelter, start up a community center, found
+a social club or open a new business. How do they get funding?
+How do they avoid the touch of the Technocracy? What happens
+when politicians and community leaders get involved on a
+scale that the mages’ magic can’t control? What if undesirable
+elements try to spiral their project out of their control?
+MAGE INTRODUCTORY KIT
+
+23
+
+Player Name:
+Character name:
+Tradition:
+Aptitude:
+Physical
+
+Social
+
+mental
+
+OOOOO
+
+OOOOO
+
+OOOOO
+Health
+
+Spheres:
+____________________
+
+Light
+
+____________________
+
+Light
+
+____________________
+
+medium
+
+____________________
+
+Medium
+
+____________________
+
+Serious
+
+____________________
+
+Serious
+
+____________________
+
+Critical
+Mortal
+
+Possessions:
+
+Quintessence
+
+____________________
+____________________
+____________________
+
+•
+
+____________________
+____________________
+____________________
+24
+
+MAGE INTRODUCTORY KIT
+
+Paradox
+
+
