@@ -7,7 +7,7 @@ import {
 import fs from 'fs';
 import {GoogleAIFileManager} from "@google/generative-ai/files"
   
-  const apiKey = "";
+  const apiKey = "/";
   const genAI = new GoogleGenerativeAI(apiKey);
 
   const model = genAI.getGenerativeModel({
